@@ -1,0 +1,27 @@
+::backdrop {
+  background-color: #504d4d;
+  opacity: 0.65;
+}
+
+
+.dialog-button:focus {
+  cursor: pointer;
+}
+
+
+.dialog {
+  position: relative;
+  background-color: #1e1e1e;
+  width: 472px;
+  height: 154px;
+  border-radius: 16px;
+  border: none;
+}
+
+
+@media (max-width: 767px) {
+  .dialog {
+    width: 90%;
+  }
+}
+   

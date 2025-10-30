@@ -1,0 +1,16 @@
+.button-dialog {
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    color: #FFFFFF;
+    width: 125px;
+    height: 48px;
+    margin: 0 auto;
+    background-color: #877EED;
+    border: none;
+    border-radius: 24px;
+}
+
+.button-dialog:hover {
+    background-color: #544ACB;
+    cursor: pointer;
+}
