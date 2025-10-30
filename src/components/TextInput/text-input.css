@@ -21,4 +21,7 @@
   .text-input {
     width: 80%;
   }
+  .text-input::placeholder {
+    font-size: 14px;
+  }
 }
